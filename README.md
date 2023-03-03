@@ -11,7 +11,7 @@
   - [Cyclistic Bike-Share Marketing Analysis](https://github.com/teena0401/Cyclistic-Bike-Share-Marketing-Analysis.git)
   - [Bellabeat Fitbit Marketing Analysis](https://github.com/teena0401/Bellabeat_Fitbeat_Marketing_Analysis.git)
   
-- <b> Accenture North America Data Analytics Virtual Experience on Forage [Used: MySQL, ] </b>  
+- <b> Accenture North America Data Analytics Virtual Experience on Forage [Used: MySQL] </b>  
   - [Social Buzz Marketing Analysis](https://github.com/teena0401/Accenture-North-America.git)
 
 [twitter]: https://twitter.com/joshmadakor
